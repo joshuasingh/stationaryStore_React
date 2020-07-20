@@ -1,0 +1,8 @@
+.BackDropSh_Root {
+  width: 100%;
+  opacity: 0.6;
+  background-color: gray;
+  height: 100%;
+  position: fixed;
+  z-index: 100;
+}

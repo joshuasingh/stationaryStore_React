@@ -1,0 +1,56 @@
+.ProductClass {
+  height: 30vh;
+  width: 100% !important;
+  margin-top: 10px !important;
+  background-color: aliceblue;
+  border-radius: 8px !important;
+  display: flex;
+}
+
+.ProductClass_Sel {
+  background-color: #41b3a3 !important;
+  color: whitesmoke;
+}
+
+.ProductContent {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-content: ce;
+  justify-content: space-evenly;
+  align-items: start;
+}
+
+.cardPic1 {
+  margin-top: 10px;
+  width: 90% !important;
+  border-radius: 7px;
+  box-shadow: 5px 10px 18px #888888;
+}
+
+.MainContainer {
+  width: 100%;
+
+  flex: 9;
+}
+
+img {
+  height: 90%;
+}
+
+.deleteCart {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.cart_Proceed {
+  display: block;
+  position: sticky;
+  flex: 1;
+}
+
+.proceed_button {
+  width: 100%;
+  border-radius: 0;
+}

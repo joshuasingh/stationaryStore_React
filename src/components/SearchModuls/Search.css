@@ -1,0 +1,26 @@
+.search_Min {
+  display: flex;
+  background-color: #e6f2ff !important;
+  justify-content: space-around;
+  height: 50px;
+  padding-top: 3%;
+  box-shadow: 0px 0px 12px 3px grey;
+}
+
+.textStyling {
+  flex: 7;
+  font-family: "helvetica, courier, arial";
+  font-weight: bold;
+  color: rgb(35, 108, 172);
+  text-shadow: 1px 1px palegreen;
+}
+
+.cartClss {
+  flex: 2;
+  text-shadow: 1px 1px palegreen;
+}
+
+.backCls {
+  flex: 2;
+  text-shadow: 1px 1px palegreen;
+}

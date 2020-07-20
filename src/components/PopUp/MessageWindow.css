@@ -1,0 +1,35 @@
+.mainMessage {
+  background-color: thistle;
+  width: 65vw;
+  height: 30vh;
+  border-radius: 5px;
+}
+
+.fullMessageBox {
+  width: 60vw;
+  background-color: #edf5e1;
+  height: 35vh;
+  position: absolute;
+  z-index: 200;
+  margin-top: 30vh;
+  margin-left: 20vw;
+  border-radius: 10px;
+  font-family: "UI,Arial,sans-serif";
+  /* font-weight: 400; */
+  font-size: center;
+  font-size: x-large;
+  color: darkslategrey;
+}
+
+.flexProp {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.buttonStyle {
+  background-color: #41b3a3;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5px;
+}

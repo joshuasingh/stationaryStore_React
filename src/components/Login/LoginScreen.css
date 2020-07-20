@@ -1,0 +1,8 @@
+.LoginScreenRoot {
+  background-color: grey;
+  height: 100vh;
+}
+
+.errorCls {
+  height: 22px;
+}

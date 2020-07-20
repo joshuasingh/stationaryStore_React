@@ -1,0 +1,7 @@
+.counterClass {
+  border-color: grey;
+  border-style: groove;
+  border-radius: 10px;
+  width: 75px;
+  z-index: 200;
+}

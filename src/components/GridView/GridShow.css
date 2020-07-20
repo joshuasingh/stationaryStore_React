@@ -1,0 +1,24 @@
+.sortTab {
+  display: flex;
+  justify-content: space-around;
+  border: groove;
+  border-radius: 5px;
+  border-color: beige;
+}
+
+.sortTab strong {
+  flex: 1;
+  font: 400 13.3333px Arial;
+  font-weight: 400;
+  color: grey;
+  font-size: large;
+  text-align: center;
+  padding-top: 8px;
+}
+
+.sortSel {
+  flex: 1 1;
+  border-radius: 0px !important;
+  border-bottom: hidden;
+  border: none !important;
+}

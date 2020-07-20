@@ -1,0 +1,45 @@
+{
+  "title": "Nataraj",
+  "subTitle": "Nataraj 621 Pencils Value pack",
+  "images_Url": [
+    "https://picsum.photos/200",
+    "https://picsum.photos/200",
+    "https://picsum.photos/200",
+    "https://picsum.photos/200"
+  ],
+  "cost": "75",
+  "payment_Opt": ["Gate", "Cod"],
+  "delivery Opt": ["Nfree"],
+  "Availaibilty": true,
+  "Description": "dfs fhs shdfjsd f shdfjsfhs f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsf dfs fhs shdfjsd f shdfjsfhs f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsfdfs fhs shdfjsd f shdfjsfhs !@! f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsfdfs fhs shdfjsd f shdfjsfhs f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsfdfs fhs shdfjsd f shdfjsfhs !@! f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsf",
+  "Seller_Description": "dfs fhs shdfjsd f shdfjsfhs f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsf dfs fhs shdfjsd f shdfjsfhs f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsfdfs fhs shdfjsd f shdfjsfhs !@! f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd sdhfsjdfhsdf sdhfsdjfhwho w jefjsfkjsfdfs fhs shdfjsd f shdfjsfhs f hsdfjshfjshf hsdfjhsdf shdfjsdhfsjd ",
+  "related": [
+    {
+      "Url": "https://picsum.photos/200",
+      "ProductN": "Pencil",
+      "title": "sdfsd",
+      "price": "Rs 99"
+    },
+    {
+      "Url": "https://picsum.photos/200",
+      "ProductN": "Pencil",
+      "title": "sdfsd",
+      "price": "Rs 99"
+    },
+    {
+      "Url": "https://picsum.photos/200",
+      "ProductN": "Pencil",
+      "price": "Rs 99"
+    },
+    {
+      "Url": "https://picsum.photos/200",
+      "ProductN": "Pencil",
+      "Price": "Rs 99"
+    },
+    {
+      "Url": "https://picsum.photos/200",
+      "ProductN": "Pencil",
+      "Price": "Rs 99"
+    }
+  ]
+}

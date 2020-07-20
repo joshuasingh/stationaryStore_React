@@ -1,0 +1,26 @@
+[
+  {
+    "Header": "Home",
+    "link": ""
+  },
+  {
+    "Header": "Profile",
+    "link": ""
+  },
+  {
+    "Header": "Sign Up",
+    "link": "/createAccount"
+  },
+  {
+    "Header": "Sign In",
+    "link": "/loginAccount"
+  },
+  {
+    "Header": "Profile",
+    "link": ""
+  },
+  {
+    "Header": "Sign Out",
+    "link": ""
+  }
+]
